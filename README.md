@@ -45,7 +45,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/martins-rafael/proffy.git
+$ git clone https://github.com/GoncalojmRosa/Proffy.git
 # ou use a opção de download.
 
 # Entre na pasta server 
