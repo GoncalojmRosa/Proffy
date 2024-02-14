@@ -1,17 +1,5 @@
 # Proffy
 
-<p>
-  <img src="https://img.shields.io/badge/made%20by-Gonçalo%20Rosa-04D361?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/proffy?color=04D361&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/proffy?color=04D361&style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-04D361?style=flat-square">
-  </a>
-  <a href="https://github.com/martins-rafael/proffy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/martins-rafael/proffy?color=04D361&style=flat-square">
-  </a>
-</p>
-
 <img align="right" src="web/src/assets/images/landing.svg?raw=true" width="35%" alt="Proffy">
 
 ## Tópicos 
@@ -33,7 +21,7 @@ O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvid
 <br>
 
 <p align="center">
-  <img src=".github/mockup.png" alt="Página inicial">
+  <img src="mockup.png" alt="Página inicial">
 </p>
 
 ## Tecnologias
